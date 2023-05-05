@@ -16,3 +16,5 @@ Imports:
     tibble,
     tidyr,
     writexl
+URL: https://github.com/beatrizmilz/dadosBCB
+BugReports: https://github.com/beatrizmilz/dadosBCB/issues
